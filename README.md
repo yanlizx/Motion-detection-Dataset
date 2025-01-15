@@ -1,2 +1,2 @@
 # Motion-detection-Dataset
-WISDM and PAMAP2
+WISDM Dataset
